@@ -1,0 +1,3 @@
+export DRUPAL_URL=
+export DRUPAL_USER=
+export DRUPAL_PASS=
